@@ -17,17 +17,18 @@ const { title, description = "My Bitter Life with Jesus - Exploring Sutton's Bit
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
     <title>{title}</title>
+    <base href={import.meta.env.BASE_URL + "/"}/>
   </head>
   <body>
     <header>
       <div class="container">
-        <h1><a href="/">My Bitter Life with Jesus</a></h1>
+        <h1><a href="./">My Bitter Life with Jesus</a></h1>
         <nav>
           <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/academic">Academic</a></li>
-            <li><a href="/creative">Creative</a></li>
-            <li><a href="/about">About</a></li>
+            <li><a href="./">Home</a></li>
+            <li><a href="./academic">Academic</a></li>
+            <li><a href="./creative">Creative</a></li>
+            <li><a href="./about">About</a></li>
           </ul>
         </nav>
       </div>
