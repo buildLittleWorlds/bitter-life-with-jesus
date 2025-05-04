@@ -3,23 +3,21 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { formatDate } from "../utils/date";
 
-const allPosts = await getCollection("posts");
+const allPosts = await getCollection("posts", ({ data }) => {
+  return data.category === "academic";
+});
 const sortedPosts = allPosts.sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 ---
 
-<BaseLayout title="My Bitter Life with Jesus">
-  <section>
-    <h2>Welcome to My Bitter Life with Jesus</h2>
-    <p>
-      Exploring the intersection of Sutton's bitter lesson, AI implications, and
-      Christian faith through academic articles and creative non-fiction.
-    </p>
-  </section>
+<BaseLayout title="Academic Articles | My Bitter Life with Jesus">
+  <h1>Academic Articles</h1>
+  <p>
+    APA-style articles exploring the theological implications of AI and Sutton's bitter lesson from a Christian perspective.
+  </p>
 
   <section class="post-list">
-    <h3>Recent Posts</h3>
     {
       sortedPosts.map((post) => (
         <div class="post-list-item">
@@ -28,7 +26,6 @@ const sortedPosts = allPosts.sort(
           </h2>
           <div class="post-meta">
             <span class="date">{formatDate(post.data.pubDate)}</span>
-            <span class="category">{post.data.category}</span>
           </div>
           <p>{post.data.description}</p>
         </div>

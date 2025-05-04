@@ -1,0 +1,44 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "My Bitter Life with Jesus - Exploring Sutton's Bitter Lesson and Christian Faith" } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="stylesheet" href="/styles/global.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1><a href="/">My Bitter Life with Jesus</a></h1>
+        <nav>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/academic">Academic</a></li>
+            <li><a href="/creative">Creative</a></li>
+            <li><a href="/about">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer>
+      <div class="container">
+        <p>&copy; {new Date().getFullYear()} My Bitter Life with Jesus</p>
+        <p>Exploring the intersection of Sutton's bitter lesson, AI implications, and Christian faith.</p>
+      </div>
+    </footer>
+  </body>
+</html>
