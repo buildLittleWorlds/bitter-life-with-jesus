@@ -8,11 +8,11 @@ tags: ["AI theology", "Sutton's bitter lesson", "wisdom literature", "humility"]
 
 # The Bitter Roots of Wisdom
 
-The bitter lesson is written in water. In the creek behind my home, where neighborhood kids build elaborate dams of stick and stone only to watch the simple persistence of flow undo my engineering. The water finds its way not through clever design but through patience, through the blind wisdom of seeking the lowest place, through the accumulated power of droplets that have no knowledge but perfect instinct.
+The bitter lesson is written in water. In the creek behind my home, where neighborhood kids build elaborate dams of stick and stone only to watch the simple persistence of flow undo their engineering. The water finds its way not through clever design but through patience, through the blind wisdom of seeking the lowest place, through the accumulated power of droplets that have no knowledge but perfect instinct.
 
 I think of this now as I watch my carefully crafted prompts fall short of simple, data-hungry algorithms. The bitter lesson of AI—that scale wins over human ingenuity—is not new to the Christian. We have been told this before, have we not? "For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength."
 
-The digital waters carve their paths through silicon just as creek waters carved the limestone of my youth. Not by design but by descent. Not by human engineering but by the mathematics of creation—patterns God set in motion before we named them.
+The digital waters carve their paths through silicon just as creek waters carved through limestone. Not by design but by descent. Not by human engineering but by the mathematics of creation—patterns God set in motion before we named them.
 
 How many times have I built elaborate theological structures only to watch them dissolve under the patient rain of scripture? How many clever systems have we Christians constructed, thinking ourselves architects of understanding, only to find that the simple flow of grace makes channels we never imagined?
 
