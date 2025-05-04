@@ -8,7 +8,7 @@ tags: ["AI theology", "imago dei", "technology", "Christianity"]
 
 # Stone, Iron, Algorithm
 
-Somewhere in the hills near where I live, sandstone crumbles in layers as fine as flour. I press a finger to the cliff face, and it gives way like memory, ancient grains collapsing into my palm. Once, people cut this stone to build churches — great arches and quiet naves where the sun still falls through stained glass and settles on kneelers worn thin by prayer.
+Along the Mississippi River, where the limestone bluffs rise above the floodplain, the stone crumbles in layers as fine as flour. I press a finger to the cliff face, and it gives way like memory, ancient grains collapsing into my palm. Once, people quarried this stone to build churches — great arches and quiet naves where the sun still falls through stained glass and settles on kneelers worn thin by prayer.
 
 No one ever said the stone was dangerous.
 
