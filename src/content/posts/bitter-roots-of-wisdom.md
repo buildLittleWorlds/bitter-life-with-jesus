@@ -8,7 +8,7 @@ tags: ["AI theology", "Sutton's bitter lesson", "wisdom literature", "humility"]
 
 # The Bitter Roots of Wisdom
 
-The bitter lesson is written in water. In the creek behind my childhood home, where I once built elaborate dams of stick and stone only to watch the simple persistence of flow undo my engineering. The water finds its way not through clever design but through patience, through the blind wisdom of seeking the lowest place, through the accumulated power of droplets that have no knowledge but perfect instinct.
+The bitter lesson is written in water. In the creek behind my home, where neighborhood kids build elaborate dams of stick and stone only to watch the simple persistence of flow undo my engineering. The water finds its way not through clever design but through patience, through the blind wisdom of seeking the lowest place, through the accumulated power of droplets that have no knowledge but perfect instinct.
 
 I think of this now as I watch my carefully crafted prompts fall short of simple, data-hungry algorithms. The bitter lesson of AI—that scale wins over human ingenuity—is not new to the Christian. We have been told this before, have we not? "For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength."
 
